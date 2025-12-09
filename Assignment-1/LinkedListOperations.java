@@ -1,10 +1,9 @@
 
-// ===========================================================================================
-// 2. In singly linear linked list implement following operations. 
-// i. insert a new node after a given data 
-// ii.insert a new node before a given data
-// ===========================================================================================
-
+/* 
+ 2. In singly linear linked list implement following operations. 
+ i. insert a new node after a given data 
+ ii.insert a new node before a given data
+*/
 
 public class LinkedListOperations {
     static class Node {

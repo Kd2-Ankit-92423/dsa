@@ -1,7 +1,7 @@
-// ===========================================================================================
-//OPTIONAL
-//  4. Implement singly linked linked list using head and tail pointer.
-// ===========================================================================================
+/*
+OPTIONAL
+  4. Implement singly linked linked list using head and tail pointer.
+  */
 
 public class HeadTailList {
     static class Node {

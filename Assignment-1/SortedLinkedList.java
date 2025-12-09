@@ -1,6 +1,6 @@
-// ===========================================================================================
-//  3. Write a function which will insert values in sorted order into linked list
-// ===========================================================================================
+/*
+ * 3. Write a function which will insert values in sorted order into linked list
+*/
 
 
 public class SortedLinkedList {
